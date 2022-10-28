@@ -1,2 +1,2 @@
 print("This is app folder")
-print("This is developer branch")
+print("This is main branch")
